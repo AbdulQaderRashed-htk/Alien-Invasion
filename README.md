@@ -9,7 +9,6 @@ This project was developed as part of my practice with Python and the Pygame lib
 - Shooting bullets to destroy aliens
 - Alien fleet movement with increasing difficulty
 - Score tracking and game-over conditions
-- Sound effects and basic animations (if supported)
 
 ## Tech Stack
 - **Python 3**
